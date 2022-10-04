@@ -1,2 +1,2 @@
-const test = 'wow123';
+const test = 'wow';
 console.log(test);
